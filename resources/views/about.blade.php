@@ -79,12 +79,12 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Belajar Laravel
+                    About
                 </div>
 
-                <div class="links">
-                    <a href="pesan">Pesan</a>
-                    <a href="about">About</a>
+                <div>
+                    <p>Halaman web ini buatan saya untuk mata kuliah KL Pemrograman Web Lanjut</p><br/>
+                    <a href="/">Home</a>
                 </div>
             </div>
         </div>
