@@ -23,6 +23,15 @@ Route::get('pesan', function () {
     return view('pesan');
 });
 
+Route::get('template', function () {
+    return view('layouts.master');
+});
+
+Route::get('coba', function () {
+    return view('dashboard');
+});
+
 Route::post('pesan/kirim', function () {
     return view('pesan_kirim');
 });
+
